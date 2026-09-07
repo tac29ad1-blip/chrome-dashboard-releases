@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/tac29ad1-blip/chrome-dashboard-releases/releases/download/v1.1.0/ChromeProfileDashboard.exe",
-  "notes": "เวอร์ชันแรกที่รองรับอัปเดตอัตโนมัติ: จัดกลุ่ม+เปิดทั้งกลุ่ม, Rename/Delete, ค้นหาเร็ว"
+    "url":  "https://github.com/tac29ad1-blip/chrome-dashboard-releases/releases/download/v1.1.1/ChromeProfileDashboard.exe",
+    "version":  "1.1.1",
+    "notes":  "ย้ายพอร์ตเป็น 8899 แก้ปัญหาชนกับเซิร์ฟเวอร์อื่น (หน้า Dashboard ใหม่: http://localhost:8899)"
 }
